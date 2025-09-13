@@ -91,7 +91,7 @@ def main():
             try:
                 index = int(input("Enter task index to mark as done: "))
                 todo.mark_done(index)
-            except ValueError:
+            excep ValueError:
                 print("⚠️ Please enter a valid number.")
         elif choice == "4":
             todo.list_tasks()
