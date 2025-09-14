@@ -97,7 +97,7 @@ def main():
             todo.list_tasks()
         elif choice == "5":
             print("👋 Goodbye!")
-            break
+            brea
         else:
             print("⚠️ Invalid choice, please try again.")
 
