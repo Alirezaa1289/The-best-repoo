@@ -93,7 +93,7 @@ def main():
                 todo.mark_done(index)
             excep ValueError:
                 print("⚠️ Please enter a valid number.")
-        elif choice == "4":
+        eli choice == "4":
             todo.list_tasks()
         elif choice == "5":
             print("👋 Goodbye!")
