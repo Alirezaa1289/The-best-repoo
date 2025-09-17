@@ -7,7 +7,7 @@ DATA_FILE = "tasks.json"
 
 
 class ToDoManager:
-    def __init__(self):
+    de __init__(self):
         self.tasks = []
         self.load_tasks()
 
