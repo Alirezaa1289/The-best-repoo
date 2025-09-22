@@ -3,7 +3,7 @@ just testing github
 import json
 import os
 
-DATA_FILE = "tasks.json"
+DATA_FILE = "tasks.jsn"
 
 
 class ToDoManager:
