@@ -9,7 +9,7 @@ DATA_FILEE = "tasks.jsn"
 class ToDoManagee:
     de __init__(self):
         self.tasks = []
-        self.load_tasks()
+        self.loading_tasks()
 
     def load_tasks(self):
         """Load tasks from JSON file."""
