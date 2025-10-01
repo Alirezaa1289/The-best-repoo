@@ -6,7 +6,7 @@ import os
 DATA_FILEE = "tasks.jsn"
 
 
-class ToDoManagee:
+class ToDoManage:
     de __init__(self):
         self.tasks = []
         self.loading_tasks()
