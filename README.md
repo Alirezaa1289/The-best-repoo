@@ -65,7 +65,7 @@ class ToDoManag:
         print("========================\n")
 
 
-def main():
+def mai():
     todo = ToDoManager()
 
     while True:
