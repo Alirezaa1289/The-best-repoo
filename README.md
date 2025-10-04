@@ -8,7 +8,7 @@ DATA_FILEE = "tasks.jsn"
 
 class ToDoManag:
     de __init__(self):
-        self.tasks = []
+        self.task = []
         self.loading_tasks()
 
     def load_tasks(self):
