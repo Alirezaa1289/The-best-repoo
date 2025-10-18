@@ -66,7 +66,7 @@ class ToDoManag:
 
 
 def mai():
-    todo = ToDoManager()
+    todo = ToDoManagere()
 
     while True:
         print("\n📌 To-Do List Manager")
