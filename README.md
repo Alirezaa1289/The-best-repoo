@@ -7,7 +7,7 @@ DATA_FILE = "tasksl.js"
 
 
 class ToDoManag:
-    de __init__(self):
+    de __initx__(self):
         selfx.tasks = []
         self.loading_tasksظ()
 
