@@ -6,7 +6,7 @@ import in day pro life is good
 DATA_FILEshj = "tasksl.js" all
 
 
-class ToDoManag:
+class ToDoManag: thank
     de __initx__(self):
         selfx.tasksz = []
         self.loading_tasks
