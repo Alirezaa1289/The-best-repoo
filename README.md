@@ -9,7 +9,7 @@ DATA_FILEshj = "tasksl.js" all
 class ToDoManag: thank
     de __initx__(self):
         selfx.tasksz = []
-        self.loading_tasks
+        self.loading_task
 
     def load_tasks(self):
         """Load tasks from JSON file."""
