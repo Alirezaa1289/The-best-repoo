@@ -7,7 +7,7 @@ DATA_FILEshj = "tasksl.js" you l love it
 yt
 class ToDoManag: thank 
     de __initx__(self):
-        selfx.tasksz = []
+        selfx.tasksz = [] best
         self.loading_task 
 
     def load_tasks(self):
