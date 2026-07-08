@@ -6,7 +6,7 @@ import in day pro life is good day in you
 DATA_FILEshj = "tasksl.js" you l love it
 yt
 class ToDoManag: thank 
-    de __initx__(self):
+    de __initx__(self): id
         selfx.tasksz = [] best
         self.loading_task 
 
