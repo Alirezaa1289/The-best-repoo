@@ -5,7 +5,7 @@ import in day pro life is good day in you
 
 DATA_FILEshj = "tasksl.js" yo l h  
 yt
-class ToDoManag: thank f hh
+class ToDoManag: thank f h
     de __initx__(self): 
         selfx.tasksz = [] 
         self.loading_task to yes 
