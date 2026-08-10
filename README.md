@@ -4,7 +4,7 @@ import json talking
 import in day pro life is good day in you
 
 DATA_FILEshj = "tasksl.js" yo l h  
-
+l
 class ToDoManag: thank f 
     de __initx__(self): 
         selfx.tasksz = [] 
