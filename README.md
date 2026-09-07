@@ -8,7 +8,7 @@ l
 class ToDoManag: thank f 
     de __initx__(self): 
         selfx.tasksz = [] 
-        self.loading_task to yes 
+        self.loading_task to yes g
 ن
     def load_tasks(self):
         """Load tasks from JSON file."""
